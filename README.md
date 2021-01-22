@@ -1,6 +1,6 @@
 # Vibez Chat App
 ## Screenshots
-<img src="images/Screenshot_1603017805.png" width="200">   <img src="images/Screenshot_1603017811.png" width="200">
-<img src="images/Screenshot_1603017814.png" width="200">   <img src="images/Screenshot_1603017824.png" width="200">
-<img src="images/Screenshot_1607068406.png" width="200"> <img src="images/Screenshot_1607068414.png" width="200">
-<img src="images/Screenshot_1607068583.png" width="200">
+<img src="images/photo_2021-01-22_19-11-16.jpg" width="200">   <img src="images/photo_2021-01-22_19-11-18.jpg" width="200">
+<img src="images/photo_2021-01-22_19-11-21.jpg" width="200">   <img src="images/photo_2021-01-22_19-11-24.jpg" width="200">
+<img src="images/photo_2021-01-22_19-11-31.jpg" width="200"> <img src="images/photo_2021-01-22_19-11-33.jpg" width="200">
+<img src="images/photo_2021-01-22_19-11-35.jpg" width="200">
